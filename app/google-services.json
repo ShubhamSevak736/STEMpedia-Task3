@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042411092983",
+    "project_id": "stempedia-task",
+    "storage_bucket": "stempedia-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042411092983:android:063f748d14c19ff9ee0cf2",
+        "android_client_info": {
+          "package_name": "com.shubham.brainyexplorers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAyyEFIj4EKbAuKewG1wSGzM5VuVKELGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

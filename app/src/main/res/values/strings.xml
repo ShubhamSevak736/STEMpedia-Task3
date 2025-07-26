@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BrainyExplorers</string>
+    <string name="img_desc">Encouraging owl giving thumbs up</string>
+    <string name="decorative_star">Decorative star</string>
+    <string name="brainyexplorer_logo">BrainyExplorer logo</string>
+    <string name="brainyexplorer">BrainyExplorer</string>
+    <string name="explore_learn_grow">Explore • Learn • Grow</string>
+    <string name="welcome">Welcome!</string>
+    <string name="img_desc2">Friendly owl mascot waving</string>
+    <string name="welcome_explorer">Welcome, Explorer!</string>
+    <string name="ask_your_parent_to_enter_their_phone_number_so_we_can_keep_you_safe">Ask your parent to enter their phone number so we can keep you safe!</string>
+    <string name="phone_icon">Phone icon</string>
+    <string name="parent_s_phone_number">Parent\'s Phone Number</string>
+    <string name="enter_parent_s_phone_number">Enter parent\'s phone number</string>
+    <string name="send_magic_code">Send Magic Code</string>
+    <string name="lab">Lab</string>
+</resources>

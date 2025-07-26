@@ -1,15 +1,21 @@
+# Task Description
+
+Create an MVVM Architecture Android Application
+Demonstrate MVVM architecture in an Android application:
+
+Use two screens, one for simple login and the other to list items. 
+Use more than one Activity and Fragments. 
+Use Firebase Auth for login and Firestore as a backend database to populate list items.
+Use RecyclerVIew with custom items. Include comments to showcase your logic and reasoning. Bonus points for well-though UX. 
+
+Bonus points will be added if you use Android Architecture Component
+
+
+# Solution Link : https://www.dropbox.com/scl/fi/jbtjp38pvczclu0gfbpdx/Task3.apk?rlkey=9y4yarbshqk7ock5avsod16pp&st=2nh3mjhn&dl=1
+
 # 👋 Welcome to BrainyExplorers!
 
 Hey there! Thanks for checking out **BrainyExplorers** — an Android app built to make learning fun, safe, and interactive for kids. This project is all about giving young explorers a playful, secure space to discover educational labs, while making sure parents are in the loop with phone-based authentication. 
-
----
-
-## 🌟 Why BrainyExplorers?
-
-As a developer and lifelong learner, I wanted to create something that helps kids (and their parents!) explore cool science and learning content, all in one place. The app is designed to be:
-- **Kid-friendly** (colorful, simple, and safe)
-- **Parent-approved** (secure login with phone verification)
-- **Easy to expand** (add more labs, new features, or your own twist!)
 
 ---
 
